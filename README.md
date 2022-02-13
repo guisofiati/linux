@@ -5,12 +5,12 @@
 **2. GUI atual**:
 ``` env |grep CURRENT_DESKTOP ``` </br> </br>
 **3. Usuário ADM**:
-``` sudo su ```
-**4. Criar diretório**:
-``` mkdir ```
+``` sudo su ``` </br> </br>
+**4. Criar diretório**: 
+``` mkdir ``` </br> </br>
 **5. Remover diretório**:
-``` rmdir / rm -r ```
+``` rmdir / rm -r ``` </br> </br>
 **6. Criar arquivo**:
-``` touch ```
+``` touch ``` </br> </br>
 **7. Acessar arquivo*:
-``` cat ```
+``` cat ``` </br> </br>
