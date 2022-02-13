@@ -12,5 +12,5 @@
 ``` rmdir / rm -r ``` </br> </br>
 **6. Criar arquivo**:
 ``` touch ``` </br> </br>
-**7. Acessar arquivo*:
+**7. Acessar arquivo**:
 ``` cat ``` </br> </br>
