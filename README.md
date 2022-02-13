@@ -18,3 +18,5 @@
 ``` cp / cp -r (diretório)``` </br> </br>
 **9. Mover ou Renomear arquivo/diretório**:
 ``` mv / mv -r (diretório) ``` </br> </br>
+**9. Criar um link simbólico (atalho)**:
+``` ln -s ``` </br> </br>
