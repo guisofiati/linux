@@ -13,9 +13,9 @@
 **6. Criar arquivo**:
 ``` touch ``` </br> </br>
 **7. Acessar arquivo**:
-``` cat ``` </br> </br>
+``` cat / less ``` </br> </br>
 **8. Copiar arquivo/diretório**:
-``` cp / cp -r (diretório)``` </br> </br>
+``` cp / cp -r (diretório) ``` </br> </br>
 **9. Mover ou Renomear arquivo/diretório**:
 ``` mv / mv -r (diretório) ``` </br> </br>
 **10. Criar um link simbólico (atalho)**:
