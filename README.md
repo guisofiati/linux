@@ -36,3 +36,5 @@
 ``` gzip -d <nome> / gunzip <nome> ``` </br> </br>
 **18. Localizar arquivos**:
 ``` find / locate / whereis ``` </br> </br>
+**18. Editores de texto no terminal**:
+``` nano / vi ``` </br> </br>
