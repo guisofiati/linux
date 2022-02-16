@@ -36,5 +36,15 @@
 ``` gzip -d <nome> / gunzip <nome> ``` </br> </br>
 **18. Localizar arquivos**:
 ``` find / locate / whereis ``` </br> </br>
-**18. Editores de texto no terminal**:
+**19. Editores de texto no terminal**:
 ``` nano / vi ``` </br> </br>
+**20. Informações sobre processos**:
+``` ps -u / ps -ux / ps -uxa (todos os users) ``` </br> </br>
+**21. Listar os tipos de sinais para matar processos**:
+``` kill -l ``` </br> </br>
+**22. Mostrar o PID (Process ID)**:
+``` pgrep <app> ``` </br> </br>
+**23. Matar o processo**:
+``` kill <PID> / kill -s SIGHUP <PID> / kill -SIGHUP <PID> / kill -9 <PID> ``` </br> </br>
+**24. Matar todos os processos filtrados**:
+``` killall <app> ``` </br> </br>
