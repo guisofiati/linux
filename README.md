@@ -48,3 +48,7 @@
 ``` kill <PID> / kill -s SIGHUP <PID> / kill -SIGHUP <PID> / kill -9 <PID> ``` </br> </br>
 **24. Matar todos os processos filtrados**:
 ``` killall <app> ``` </br> </br>
+**25. Start/Stop/Restart um serviço**:
+``` systemctl stop/start/restart <servico> ``` </br> </br>
+**26. Rodar processos em foreground/background**:
+``` <processo> (foreground) / <processo> & (background) ``` </br> </br>
