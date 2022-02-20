@@ -52,3 +52,5 @@
 ``` systemctl stop/start/restart <servico> ``` </br> </br>
 **26. Rodar processos em foreground/background**:
 ``` <processo> (foreground) / <processo> & (background) ``` </br> </br>
+**27. Adicionar/Remover permissão de leitura/escrita/execução de arquivos**:
+``` chmod u(user) /  g(group) / o(other) / a(all) +/- r(read) / w(write) / x(execute) ``` </br> </br>
