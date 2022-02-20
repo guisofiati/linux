@@ -64,4 +64,7 @@
 ``` useradd -m <nome> (Criar) / userdel -r <nome> (Remover) / usermod -c " " <campo> (Editar) ``` </br> </br>
 **32. Visualizar qual o user atual/id**: 
 ``` whoami / id ``` </br> </br>
-
+**33. Adicionar novo grupo**: 
+``` addgroup <nome> ``` </br> </br>
+**34. Remover grupo**: 
+``` groupdel <nome> ``` </br> </br>
