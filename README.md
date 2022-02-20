@@ -68,3 +68,5 @@
 ``` addgroup <nome> ``` </br> </br>
 **34. Remover grupo**: 
 ``` groupdel <nome> ``` </br> </br>
+**35. Reiniciar/Desligar o linux**: 
+``` reboot (reiniciar) / shutdown (desliga em 1m) / poweroff (desligar) ``` </br> </br>
