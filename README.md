@@ -54,7 +54,14 @@
 ``` <processo> (foreground) / <processo> & (background) ``` </br> </br>
 **27. Adicionar/Remover permissão de leitura/escrita/execução de arquivos**:
 ``` chmod u(user) /  g(group) / o(other) / a(all) +/- r(read) / w(write) / x(execute) ``` </br> </br>
-**28. Criar/Remover/Editar user**:
+**28. Editar dono do arquivo**:
+``` chown <user> <arquivo> ``` </br> </br>
+**29. Editar grupo do arquivo**:
+``` chown :<grupo> <arquivo> ``` </br> </br>
+**30. Editar grupo e dono do arquivo**:
+``` chown <user>:<grupo> <arquivo> ``` </br> </br>
+**31. Criar/Remover/Editar user**:
 ``` useradd -m <nome> (Criar) / userdel -r <nome> (Remover) / usermod -c " " <campo> (Editar) ``` </br> </br>
-**29. Visualizar qual o user atual/id**:
+**32. Visualizar qual o user atual/id**: 
 ``` whoami / id ``` </br> </br>
+
