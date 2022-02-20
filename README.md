@@ -55,4 +55,6 @@
 **27. Adicionar/Remover permissão de leitura/escrita/execução de arquivos**:
 ``` chmod u(user) /  g(group) / o(other) / a(all) +/- r(read) / w(write) / x(execute) ``` </br> </br>
 **28. Criar/Remover/Editar user**:
-``` useradd -m <nome> (Criar) / userdel -r <nome> (Remover) / usermod -c " " <campo> (Edita) ``` </br> </br>
+``` useradd -m <nome> (Criar) / userdel -r <nome> (Remover) / usermod -c " " <campo> (Editar) ``` </br> </br>
+**29. Visualizar qual o user atual/id**:
+``` whoami / id ``` </br> </br>
